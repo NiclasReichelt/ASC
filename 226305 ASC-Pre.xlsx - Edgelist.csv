@@ -1,0 +1,16 @@
+from,to,relationship
+Asc,Ida,1
+Asc,Belle,1
+Asc,Virginia,1
+Asc,Betti,1
+Asc,Mary,1
+Asc,Viola,1
+Asc,Jane,2
+Asc,Grace,3
+Asc,Oscar,2
+Ida,Belle,4
+Ida,Virginia,4
+Ida,Betti,1
+Ida,Mary,1
+Ida,Viola,1
+Belle,Virginia,4
