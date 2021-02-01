@@ -14,7 +14,12 @@ Erste Recherche. Weitere durch das Buch "Crusade for Justice"
 **weight**
 
 Beziehungsstärke
-Schwach (1) - Stark (3)
+
+1 = *Schwach*
+
+2 = *Neutral*
+
+3 = *Stark*
 
 **relation**
 
@@ -34,7 +39,9 @@ Jahr/Zeitraum der Begegnung bzw. des Kontaktes
 
 Ort der Begegnung bzw. des Kontaktes
 
-**Weitere im Laufe der Recherche**
+**Weitere**
+
+--> Im Laufe der Recherche
 
 
 ## NODE-Attribute  
