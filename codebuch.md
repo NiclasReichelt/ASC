@@ -50,33 +50,47 @@ Ausgeschriebener Name oder Bezeichnung des Knotens.
 **sex**
 
 dichotome Ausprägung:
-male (1) female (2)
+*male* (1)
+*female* (2)
 
 **skincolor**
 
 dichotome Ausprägung:
-Schwarz (1) und Weiss (2)			
+*Schwarz* (1)
+*Weiss* (2)			
 
 **member**
 
-Mitglied bei best. (suffrage) Club: 
-ASC (1)
-NACWC (2)
-WCTU (3)
-NAWSA (4)
-NAACP (5) 
+Mitglied bei best. (suffrage) Club:
+
+*ASC* (1)
+
+*NACWC* (2)
+
+*WCTU* (3)
+
+*NAWSA* (4)
+
+*NAACP* (5)
+
 --> Ausgebaut bei tieferer Recherche							
 
 **power**
 
-Machtstatus/ Einfluss: 
-kaum einflussreich (1)
-einflussreich (2)
-sehr einflussreich (3)					
+Machtstatus/ Einfluss:
+
+*kaum einflussreich* (1)
+
+*einflussreich* (2)
+
+*sehr einflussreich* (3)					
   
 **class**
 
 Gesellschaftliche Herkunft: 
+
 Arbeiter (1)
+
 Bürgertum (2)
+
 Oberschicht (3)
