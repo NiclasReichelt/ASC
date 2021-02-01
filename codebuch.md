@@ -50,28 +50,32 @@ Ausgeschriebener Name oder Bezeichnung des Knotens.
 **sex**
 
 dichotome Ausprägung:
-*male* (1)
-*female* (2)
+
+1 = *male*
+
+2 = *female*
 
 **skincolor**
 
 dichotome Ausprägung:
-*Schwarz* (1)
-*Weiss* (2)			
+
+1 = *Schwarz*
+
+2 = *Weiss*		
 
 **member**
 
 Mitglied bei best. (suffrage) Club:
 
-*ASC* (1)
+1 = *ASC*
 
-*NACWC* (2)
+2 = *NACWC*
 
-*WCTU* (3)
+3 = *WCTU*
 
-*NAWSA* (4)
+4 = *NAWSA*
 
-*NAACP* (5)
+5 = *NAACP*
 
 --> Ausgebaut bei tieferer Recherche							
 
@@ -79,18 +83,18 @@ Mitglied bei best. (suffrage) Club:
 
 Machtstatus/ Einfluss:
 
-*kaum einflussreich* (1)
+1 = *kaum einflussreich*
 
-*einflussreich* (2)
+2 = *einflussreich*
 
-*sehr einflussreich* (3)					
+3 = *sehr einflussreich*			
   
 **class**
 
 Gesellschaftliche Herkunft: 
 
-Arbeiter (1)
+1 = *Arbeiter*
 
-Bürgertum (2)
+2 = *Bürgertum*
 
-Oberschicht (3)
+3 = *Oberschicht*
