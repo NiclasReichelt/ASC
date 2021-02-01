@@ -18,10 +18,10 @@ Schwach (1) - Stark (3)
 
 **relation**
 
-Beziehungsart zwischen den Personen  
+Beziehungsart zwischen den Personen
 1 = *Freunde*  
-2 = *Neutral* 
-3 = *Konflikt
+2 = *Neutral*
+3 = *Konflikt*
 
 **year**
 
